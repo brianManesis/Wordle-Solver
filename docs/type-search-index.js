@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"src","l":"Dictionary"},{"p":"src","l":"WordleHelper"},{"p":"src","l":"WordleHelperTest"},{"p":"src","l":"WordleSolver"}]
