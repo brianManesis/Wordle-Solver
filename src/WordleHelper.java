@@ -31,7 +31,7 @@ public class WordleHelper {
 
         possible = new ArrayList<String>();
         in = new ArrayList<Character>();
-        wordleWords = new Dictionary("C://wordlewords.txt");
+        wordleWords = new Dictionary("Wordle-Solver\\src\\wordlewords.txt");
         for (int i = 0; i < wordleWords.getSize(); i++) {
             possible.add(wordleWords.getWord(i));
         }

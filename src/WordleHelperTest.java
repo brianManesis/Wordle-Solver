@@ -45,7 +45,7 @@ public class WordleHelperTest {
     public static void play() {
         Scanner sc = new Scanner(System.in);
         WordleHelper help = new WordleHelper();
-        Dictionary words = new Dictionary("C://wordlewords.txt");
+        Dictionary words = new Dictionary("Wordle-Solver\\src\\wordlewords.txt");
         Random rand = new Random();
         String word = words.getWord(rand.nextInt(2315));
         System.out.println("WORD: " + word);
