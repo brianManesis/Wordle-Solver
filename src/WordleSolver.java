@@ -15,7 +15,6 @@ public class WordleSolver {
     /**
      * The main method takes in your guess from your
      * Wordle game and gives you suggestions with high success rate
-     * 
      * @param args
      */
     public static void main(String[] args) {
